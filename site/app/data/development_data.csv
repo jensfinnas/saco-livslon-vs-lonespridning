@@ -2,7 +2,7 @@
 "Agronom","Agronom","agronomer","GymnNatv",14626981,15854009,1.0838879875,"Agronom- och hortonomutbildning",2042,22825,26000,30100,34360.77,38200,49942,2.1880394304,
 "Akademiker totalt","Akademiker_totalt","akademiker totalt","GymnTotal",13964855,16223818,1.1617605768,"Akademiker",525307,22818,25470,29591,34840.79,38242,52588,2.3046717504,
 "Apotekare","Apotekare","apotekare","GymnNatv",14626981,19554438,1.3368745061,"Apotekarutbildning",1530,25300,30000,36660,41193.53,47042,60660,2.3976284585,
-"Arbetsterapeut","Arbterap","arbetsterapeuter","GymnSamhv",13815902,12762398,0.9237469982,"Arbetsterapeututbildning",7679,22300,23700,25200,25944.15,27000,30000,1.3452914798,
+"Arbetsterapeut","Arbterap","arbetsterapeuter","GymnSamhv",13815902,12762398,0.9237469982,"Arbetsterapeututbildning",7679,22300,23700,25200,25944.15,27000,30000,1.3452914798,"healthcare"
 "Arkitekt","Arkitekt","arkitekter","GymnNatv",14626981,15711297,1.0741312237,"Arkitektutbildning",1763,25500,29000,33659,35045.8,39107,47200,1.8509803922,
 "Bibliotekarie och informationsvetare","Biblinfo","bibliotekarier och informationsvetare","GymnSamhv",13815902,12712786,0.9201560636,"Biblioteks- och informationsvetenskaplig högskoleutbildning",4798,22000,24035,25943,27145.56,28700,33760,1.5345454545,
 "Biolog","Biolog","biologer","GymnNatv",14626981,13844452,0.9465009902,"Biologutbildning",5179,21462,23600,26358,28520.3,31250,37700,1.7565930482,
@@ -23,7 +23,7 @@
 "Lärare i praktiskt-estetiskt ämne","lararePrakEstet","lärare i praktisk-estetiska ämnen","GymnSamhv",13815902,13193533,0.9549527059,"Utbildning för lärare i praktiskt estetiskt ämne",16604,23500,25300,27393,28298.04,29620,33000,1.4042553191,"education"
 "Matematiker och statistiker","Matstat","matematiker och statistiker","GymnNatv",14626981,16386927,1.1203218901,"Matematiker och statistiker",1568,20045,26313,32580,36515.22,43658,54749,2.7313045647,
 "Psykolog","Psykolog","psykologer","GymnSamhv",13815902,15401912,1.1147959793,"Psykologutbildning",5082,26050,29300,32091,33827.38,35525,40000,1.5355086372,
-"Receptarie","Receptarie","receptarier","GymnNatv",14626981,14095327,0.9636525131,"Receptarieutbildning",2489,22304,24917,27776,29859.8,32152,39218,1.7583393113,
+"Receptarie","Receptarie","receptarier","GymnNatv",14626981,14095327,0.9636525131,"Receptarieutbildning",2489,22304,24917,27776,29859.8,32152,39218,1.7583393113,"healthcare"
 "Samhälls- och beteendevetare","Samhbetvet","samhälls- och beteendevetare","GymnSamhv",13815902,15884309,1.1497120492,"Samhälls- och beteendevetenskaplig utbildning",23524,22050,24900,29650,34248.91,37000,50700,2.2993197279,
 "Sjukgymnast","Sjukgymn","sjukgymnaster","GymnNatv",14626981,13188139,0.9016309654,"Sjukgymnastutbildning",7768,22000,23800,25785,26834.1,28050,31687,1.4403181818,"healthcare"
 "Sjuksköterska","Sjukskoterska","sjuksköterskor","GymnSamhv",13815902,14117263,1.0218126185,"Sjuksköterskeutbildning",93921,23688,25775,28000,29133.67,30985,35200,1.4859844647,"healthcare"
